@@ -1,0 +1,29 @@
+{
+  "name": "codeflix-admin-api",
+  "description": "API do Admin do CodeFlix",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darley-raffael/CodeFlixAdminApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darley-raffael/CodeFlixAdminApi/issues"
+  },
+  "homepage": "https://github.com/darley-raffael/CodeFlixAdminApi#readme",
+  "devDependencies": {
+    "@swc/cli": "^0.6.0",
+    "@swc/core": "^1.11.4",
+    "@swc/jest": "^0.2.37",
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
